@@ -1,0 +1,1 @@
+# SoraCoin.sol
